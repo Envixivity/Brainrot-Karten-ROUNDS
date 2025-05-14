@@ -2,12 +2,12 @@
 
 ## Supported Versions
 
-Diese Versionen werden mit security updates versorgt:
+Diese Versionen werden mit bug fixes versorgt:
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 1.1.0   | :white_check_mark: |
-| 1.0.0   | :white_check_mark: |
+| 2.0.2   | :white_check_mark: |
+| 2.0.1   | :white_check_mark: |
 
 ## Reporting a Vulnerability
 
